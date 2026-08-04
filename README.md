@@ -290,8 +290,6 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 | Threshold | -45 dB |
 | RMS Size | 1 ms |
 
-*(здесь можно разместить скриншот ReaGate)*
-
 ---
 <img width="456" height="327" alt="Настройки у vst плагина LoudMax" src="https://github.com/user-attachments/assets/695e6845-d245-4841-bcf5-877ab671560b" />
 
@@ -305,8 +303,6 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 | Output | -1.0 dB |
 | Link | Включено |
 | ISP | Включено |
-
-*(здесь можно разместить скриншот LoudMax)*
 
 ---
 
