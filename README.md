@@ -14,7 +14,7 @@
 > [!WARNING]
 > Скачивайте **Equalizer APO** **ТОЛЬКО** с официальной страницы SourceForge:
 >
-> **[Sourceforge](https://sourceforge.net/projects/equalizerapo)**
+> **[SourceForge](https://sourceforge.net/projects/equalizerapo)**
 
 ---
 
