@@ -14,7 +14,7 @@
 > [!WARNING]
 > Скачивайте **Equalizer APO** **ТОЛЬКО** с официальной страницы SourceForge:
 >
-> https://sourceforge.net/projects/equalizerapo
+> [Sourceforge](https://sourceforge.net/projects/equalizerapo)
 
 ---
 
@@ -22,11 +22,11 @@
 
 ### ReaPlugs
 
-https://www.reaper.fm/reaplugs
+[Reaper.fm](https://www.reaper.fm/reaplugs)
 
 ### LoudMax
 
-https://loudmax.blogspot.com
+[blogspot](https://loudmax.blogspot.com)
 
 ---
 
