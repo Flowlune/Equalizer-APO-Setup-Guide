@@ -181,8 +181,20 @@ Do not create shortcuts
 
 ---
 
+---
+
 ## 10.
-<img width="461" height="132" alt="10  Если будет появлятся окно с предупреждением нужно нажать на кнопку No" src="https://github.com/user-attachments/assets/af899a05-b6a2-4318-83d3-4e51b4e3a66c" />
+<img width="1123" height="664" alt="10  Нужно запустить Editor exe" src="https://github.com/user-attachments/assets/26404ee1-61bf-4ef9-851a-c613a2b79b40" />
+
+Чтобы запустить Equalizer APO нужно запустить .exe файл под названием **Editor**.
+
+> [!TIP]
+> Чтобы каждый раз не заходить по этому пути C:\Program Files\EqualizerAPO можно закрепить файл Editor.exe на панели задач.
+
+---
+
+## 11.
+<img width="461" height="132" alt="11  Если будет появлятся окно с предупреждением нужно нажать на кнопку No" src="https://github.com/user-attachments/assets/af899a05-b6a2-4318-83d3-4e51b4e3a66c" />
 
 Если после завершения установки и первого запуска Equalizer APO появится окно с предупреждением —
 
