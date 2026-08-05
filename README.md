@@ -325,10 +325,18 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 
 > [!CAUTION]
 > Перед заменой конфигураций рекомендуется сделать резервную копию папки:
-
-```
-C:\Program Files\EqualizerAPO\config
-```
+>
+> ```
+> C:\Program Files\EqualizerAPO\config
+> ```
+>
+> Если Windows не позволяет создать копию из-за недостатка прав, откройте **Терминал Windows** от имени администратора и выполните команду:
+>
+> ```cmd
+> cd "C:\Program Files\EqualizerAPO" && copy config config.bk && exit
+> ```
+>
+> Будет создана резервная копия папки `config` с именем `config.bk`.
 
 ---
 
