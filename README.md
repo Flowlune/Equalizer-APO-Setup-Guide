@@ -75,11 +75,15 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 Хотите сразу протестировать ReaGate и LoudMax без создания своей конфигурации?  
 Скачайте готовый архив ниже.
 
-**[Google Drive](https://drive.google.com/file/d/1_wELacfwO9rySZ0Q2WJfAuIBKTQ8xvcQ/view?usp=drive_link)**  
-(прямая ссылка на архив)
+**Выберите один из вариантов:**
 
-> [!IMPORTANT]
->**Если Google drive не работает** — попробуйте открыть в браузере через инкогнито или используйте VPN.
+- **[Google Drive](https://drive.google.com/file/d/1_wELacfwO9rySZ0Q2WJfAuIBKTQ8xvcQ/view?usp=drive_link)**  
+  (прямая ссылка на **.ZIP** архив)
+
+- **[Yandex Disk](https://disk.yandex.ru/d/ICcef4vBDqadfQ)**  
+  (прямая ссылка на **.ZIP** архив)
+
+**Если Google drive либо Yandex Disk не работают** — попробуйте открыть в браузере через инкогнито или используйте VPN.
 ---
 
 ---
