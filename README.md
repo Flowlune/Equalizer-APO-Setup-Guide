@@ -26,7 +26,7 @@
 
 ### LoudMax
 
-**[blogspot](https://loudmax.blogspot.com)**
+**[Blogspot](https://loudmax.blogspot.com)**
 
 ---
 
