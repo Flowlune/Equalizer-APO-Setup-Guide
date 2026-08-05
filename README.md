@@ -83,7 +83,8 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 - **[Yandex Disk](https://disk.yandex.ru/d/ICcef4vBDqadfQ)**  
   (прямая ссылка на **.ZIP** архив)
 
-**Если Google drive либо Yandex Disk не работают** — попробуйте открыть в браузере через инкогнито или используйте VPN.
+> [!IMPORTANT]
+>**Если один из сервисов например Google Drive не работают** — попробуйте открыть в браузере через инкогнито или используйте VPN.
 ---
 
 ---
