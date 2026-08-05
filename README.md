@@ -70,6 +70,24 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 ---
 
 ---
+## 📥 Скачать готовую конфигурацию
+
+Хотите сразу протестировать ReaGate и LoudMax без создания своего конфига?  
+Скачайте готовый архив ниже.
+
+**Выберите один из вариантов:**
+
+- **[Google Drive](https://drive.google.com/file/d/1_wELacfwO9rySZ0Q2WJfAuIBKTQ8xvcQ/view?usp=drive_link)**  
+  (прямая ссылка на архив)
+
+- **[Yandex Disk](https://disk.yandex.ru/d/ICcef4vBDqadfQ)**  
+  (прямая ссылка на архив)
+
+> [!IMPORTANT]
+>**Если Google drive либо Yandex Disk не работают** — попробуйте открыть в браузере через инкогнито или используйте VPN.
+---
+
+---
 
 # 📖 Установка Equalizer APO
 
@@ -363,24 +381,6 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 >
 > Будет создана резервная копия папки `config` с именем `config.bk`.
 
----
-
----
-## 📥 Скачать готовую конфигурацию
-
-Хотите сразу протестировать ReaGate и LoudMax без создания своего конфига?  
-Скачайте готовый архив ниже.
-
-**Выберите один из вариантов:**
-
-- **[Google Drive](https://drive.google.com/file/d/1_wELacfwO9rySZ0Q2WJfAuIBKTQ8xvcQ/view?usp=drive_link)**  
-  (прямая ссылка на архив)
-
-- **[Yandex Disk](https://disk.yandex.ru/d/ICcef4vBDqadfQ)**  
-  (прямая ссылка на архив)
-
-> [!IMPORTANT]
->**Если Google drive либо Yandex Disk не работают** — попробуйте открыть в браузере через инкогнито или используйте VPN.
 ---
 
 # ❤️ Спасибо за использование репозитория <3
