@@ -387,10 +387,10 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 **Выбери один из вариантов:**
 
 - **[Google Drive](https://drive.google.com/file/d/1_wELacfwO9rySZ0Q2WJfAuIBKTQ8xvcQ/view?usp=drive_link)**  
-  (прямая ссылка на файл)
+  (прямая ссылка на архив)
 
 - **[Yandex Disk](https://disk.yandex.ru/d/ICcef4vBDqadfQ)**  
-  (прямая ссылка на файл)
+  (прямая ссылка на архив)
 
 > [!IMPORTANT]
 >**Если ссылка не работает** — попробуй открыть файл в браузере через инкогнито или используй альтернативный сервис.
