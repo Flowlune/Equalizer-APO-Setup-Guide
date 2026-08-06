@@ -94,7 +94,7 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 
 # 📖 Установка Equalizer APO
 
-## 1.
+# 1.
 <img width="494" height="385" alt="1  В начале установки нужно нажать на кнопку Next" src="https://github.com/user-attachments/assets/1ffe153f-7e66-43c1-92e2-1fb435810061" />
 
 Нажмите кнопку **Next**.
