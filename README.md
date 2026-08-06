@@ -206,7 +206,7 @@ Do not create shortcuts
 ---
 
 # 1.
-# ⚙ Настройка устройства Resolution
+# ⚙ Настройка количество отсчетов у Resolution
 <img width="870" height="243" alt="11  Настройка Resolution" src="https://github.com/user-attachments/assets/a9f9470b-c070-48b6-833d-51c63c0a478d" />
 
 Поставьте значение у Resolution **1024**.
