@@ -14,7 +14,7 @@
 > [!WARNING]
 > Скачивайте **Equalizer APO** **ТОЛЬКО** с официальной страницы SourceForge:
 >
-> **[SourceForge](https://sourceforge.net/projects/equalizerapo)**
+> **[SourceForge.net](https://sourceforge.net/projects/equalizerapo)**
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### LoudMax
 
-**[Blogspot](https://loudmax.blogspot.com)**
+**[Blogspot.com](https://loudmax.blogspot.com)**
 
 ---
 
