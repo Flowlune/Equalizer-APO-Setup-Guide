@@ -15,6 +15,9 @@
 > Скачивайте **Equalizer APO** **ТОЛЬКО** с официальной страницы SourceForge:
 >
 > **[SourceForge.net](https://sourceforge.net/projects/equalizerapo)**
+> 
+> [!CAUTION]
+> **Не скачивайте Equalizer APO с неизвестных сайтов & источников !!!**
 
 ---
 
@@ -382,9 +385,6 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 > После изменения конфигурации изменения применяются автоматически.
 
 ---
-
-> [!WARNING]
-> Не скачивайте Equalizer APO с неизвестных сайтов.
 
 ---
 
