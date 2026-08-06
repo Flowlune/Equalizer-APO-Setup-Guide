@@ -1,7 +1,7 @@
 # 🎤 Инструкция по установке Equalizer APO, настройке микрофона и VST-плагинов.
 ---
 
-## ⭐ Поддержка репозитория
+# ⭐ Поддержка репозитория
 
 Если данный репозиторий оказался полезным, пожалуйста, поставьте ⭐ звезду.
 
@@ -20,11 +20,11 @@
 
 # 🔌 Официальные сайты VST-плагинов
 
-### ReaPlugs
+# ReaPlugs
 
 **[Reaper.fm](https://www.reaper.fm/reaplugs)**
 
-### LoudMax
+# LoudMax
 
 **[Blogspot.com](https://loudmax.blogspot.com)**
 
@@ -44,15 +44,15 @@ C:\Program Files\EqualizerAPO\config
 C:\Program Files\EqualizerAPO\VSTPlugins
 ```
 ---
-## 📌 Рекомендации по настройке звука микрофона
+# 📌 Рекомендации по настройке звука микрофона
 
 Перед установкой Equalizer APO **обязательно** выполните эти простые рекомендации. Это гарантирует, что ваш микрофон будет работать на максимальной мощности и не будет «резать» или «приглушать».
 
-### 1. Настройка чувствительности микрофона
+# 1. Настройка чувствительности микрофона
 - Если у вашего микрофона есть физический регулятор чувствительности — **поставьте его на максимум** (12–16 часов или 100%).
 - Если регулятора нет на самом микрофоне — настройте уровень в системе.
 
-### 2. Как быстро открыть окно «Уровни» микрофона:
+# 2. Как быстро открыть окно «Уровни» микрофона:
 1. Нажмите левой кнопкой мыши на иконку 🔊 в трее.
 2. Выберите **Звуки**.
 3. Перейдите во вкладку **Запись**.
@@ -63,14 +63,14 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 8. После всех настроек нажмите на кнопку **Применить** и **ОК**.
 
 > [!TIP]
->### 3. Важные советы
+># 3. Важные советы
 >- После всех изменений сделайте тестовую запись (например, в Discord или OBS) и убедись, что звук чистый.
 
 **Готово!** Теперь микрофон будет работать максимально качественно, и Equalizer APO поможет правильно его обрабатывать.
 ---
 
 ---
-## 📥 Скачать готовую конфигурацию
+# 📥 Скачать готовую конфигурацию
 
 Хотите сразу протестировать ReaGate и LoudMax без создания своей конфигурации?  
 Скачайте готовый архив ниже.
@@ -98,21 +98,21 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 
 ---
 
-## 2.
+# 2.
 <img width="495" height="386" alt="2  Далее нужно нажать на кнопку I Agree" src="https://github.com/user-attachments/assets/ff2b2e2f-da0b-4368-a548-e1f039f3ac7d" />
 
 Нажмите **I Agree**.
 
 ---
 
-## 3.
+# 3.
 <img width="494" height="385" alt="3  Далее нужно нажать на кнопку Next" src="https://github.com/user-attachments/assets/b0018e92-bbd5-4caf-bcf9-0111713a440a" />
 
 Нажмите **Next**.
 
 ---
 
-## 4.
+# 4.
 <img width="495" height="384" alt="4  Далее нужно нажать на галочку Do not create shortcuts и далее нужно нажать на кнопку Next" src="https://github.com/user-attachments/assets/248c4978-2828-4997-8ff3-f80bf90f82d3" />
 
 Поставьте галочку
@@ -125,7 +125,7 @@ Do not create shortcuts
 
 ---
 
-## 5.
+# 5.
 <img width="496" height="385" alt="5  По желанию здесь можно оставить галочку либо убрать но лучше убрать и далее нажать на кнопку Install" src="https://github.com/user-attachments/assets/f3e4ea46-5a59-483d-bb46-489af2b549c8" />
 
 По желанию можно оставить галочку у **«Check for updates automatically»** либо убрать её.
@@ -136,7 +136,7 @@ Do not create shortcuts
 
 ---
 
-## 6.
+# 6.
 <img width="650" height="676" alt="6  В capture devices нужно выбрать свой микрофон и не нужно трогать галочку если нету проблем и в конце нажать ОК" src="https://github.com/user-attachments/assets/6b310224-5981-42ae-bbda-fa7a1d158edd" />
 
 В окне **Capture devices**
@@ -155,14 +155,14 @@ Do not create shortcuts
 
 ---
 
-## 7.
+# 7.
 <img width="335" height="348" alt="7  После окончания установки полной нужно нажать на ОК" src="https://github.com/user-attachments/assets/44f1ea56-9fbf-4231-b657-ae81a94ed1d2" />
 
 После окончания установки нажмите **OK**.
 
 ---
 
-## 8.
+# 8.
 <img width="500" height="130" alt="8  В Info нужно нажать ОК" src="https://github.com/user-attachments/assets/da3fd11c-0369-437c-a239-4be9b0c198fd" />
 
 В окне **Info**
@@ -171,7 +171,7 @@ Do not create shortcuts
 
 ---
 
-## 9.
+# 9.
 <img width="496" height="385" alt="9  Далее нужно нажать на кнопку Finish в установщике и не нужно перезагружать компьютер" src="https://github.com/user-attachments/assets/e7c2a0da-34dc-4731-b02b-bca8b11c3dd1" />
 
 Нажмите кнопку **Finish**.
@@ -183,7 +183,7 @@ Do not create shortcuts
 
 ---
 
-## 10.
+# 10.
 <img width="1123" height="664" alt="10  Нужно запустить Editor exe" src="https://github.com/user-attachments/assets/26404ee1-61bf-4ef9-851a-c613a2b79b40" />
 
 Чтобы запустить Equalizer APO нужно запустить .exe файл под названием **Editor**.
@@ -193,7 +193,7 @@ Do not create shortcuts
 
 ---
 
-## 11.
+# 11.
 <img width="461" height="132" alt="11  Если будет появлятся окно с предупреждением нужно нажать на кнопку No" src="https://github.com/user-attachments/assets/af899a05-b6a2-4318-83d3-4e51b4e3a66c" />
 
 Если после завершения установки и первого запуска Equalizer APO появится окно с предупреждением —
@@ -202,13 +202,14 @@ Do not create shortcuts
 
 ---
 
+# 1.
 # ⚙ Настройка устройства Resolution
 <img width="870" height="243" alt="11  Настройка Resolution" src="https://github.com/user-attachments/assets/a9f9470b-c070-48b6-833d-51c63c0a478d" />
 
 Поставьте значение у Resolution **1024**.
 
-## 1.
-## 🏮 Настройка команды Device (Select device)
+# 2.
+# 🏮 Настройка команды Device (Select device)
 
 <img width="1017" height="333" alt="12  В интерфейсе нужно нажать на зелёный плюс далее Control далее Device (Select device)" src="https://github.com/user-attachments/assets/19a3edbb-3cc8-435e-ae62-802422a29bf6" />
 
@@ -226,7 +227,7 @@ Device (Select device)
 
 ---
 
-## 2.
+# 3.
 <img width="1020" height="118" alt="13  Далее нужно нажать на кнопку Change" src="https://github.com/user-attachments/assets/5807d79c-12f3-4107-93d6-385e68bc9496" />
 
 Нажмите кнопку
@@ -237,7 +238,7 @@ Change
 
 ---
 
-## 3.
+# 4.
 
 Уберите галочку
 
@@ -247,7 +248,7 @@ Select all devices
 
 ---
 
-## 4.
+# 5.
 <img width="500" height="380" alt="14  Далее нужно убрать галочку Select all devices и далее в Capture devices нужно поставить галочку у микрофона и нажать на ОК" src="https://github.com/user-attachments/assets/984299f9-e968-43e1-82eb-b7dc76cf9b69" />
 
 В разделе
