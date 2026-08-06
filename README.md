@@ -128,7 +128,7 @@ Do not create shortcuts
 ## 5.
 <img width="496" height="385" alt="5  По желанию здесь можно оставить галочку либо убрать но лучше убрать и далее нажать на кнопку Install" src="https://github.com/user-attachments/assets/f3e4ea46-5a59-483d-bb46-489af2b549c8" />
 
-По желанию можно оставить галочку либо убрать её.
+По желанию можно оставить галочку у **«Check for updates automatically»** либо убрать её.
 
 Рекомендуется убрать галочку.
 
@@ -202,10 +202,14 @@ Do not create shortcuts
 
 ---
 
-# ⚙ Настройка устройства (Resolution)
+# ⚙ Настройка устройства Resolution
 <img width="870" height="243" alt="11  Настройка Resolution" src="https://github.com/user-attachments/assets/a9f9470b-c070-48b6-833d-51c63c0a478d" />
 
+Поставьте значение у Resolution **1024**.
+
 ## 1.
+## Настройка команды Device (Select device)
+
 <img width="1017" height="333" alt="12  В интерфейсе нужно нажать на зелёный плюс далее Control далее Device (Select device)" src="https://github.com/user-attachments/assets/19a3edbb-3cc8-435e-ae62-802422a29bf6" />
 
 Нажмите зелёную кнопку **+**
