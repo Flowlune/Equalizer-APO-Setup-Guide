@@ -208,7 +208,7 @@ Do not create shortcuts
 Поставьте значение у Resolution **1024**.
 
 ## 1.
-## Настройка команды Device (Select device)
+## 🏮 Настройка команды Device (Select device)
 
 <img width="1017" height="333" alt="12  В интерфейсе нужно нажать на зелёный плюс далее Control далее Device (Select device)" src="https://github.com/user-attachments/assets/19a3edbb-3cc8-435e-ae62-802422a29bf6" />
 
