@@ -403,11 +403,17 @@ Config
 >
 > Если Windows не позволяет создать копию из-за недостатка прав, откройте **Терминал Windows** от имени администратора и выполните команду:
 >
-> ```cmd
-> cd "C:\Program Files\EqualizerAPO" && copy config config.bk && exit
+> ```
+> cd /d "C:\Program Files\EqualizerAPO" && copy config config.bk && exit
 > ```
 >
 > Будет создана резервная копия папки `config` с именем `config.bk`.
+>
+> Также можно будет создать копию папки `config` через PowerShell: его нужно запустить от имени администратора и выполнить следующую команду:
+> 
+> ```
+> cd "C:\Program Files\EqualizerAPO"; copy config config.bk; exit
+> ```
 
 ---
 
