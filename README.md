@@ -85,10 +85,10 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 
 **Выберите один из вариантов:**
 
-- **[Google Drive](https://drive.google.com/file/d/1_wELacfwO9rySZ0Q2WJfAuIBKTQ8xvcQ/view?usp=drive_link)**  
+- **[Google Drive](https://drive.google.com/file/d/106xba7GqEKbZ3HVeJan8zeafZajGq1yb/view?usp=drive_link)**  
   (прямая ссылка на **.ZIP** архив)
 
-- **[Yandex Disk](https://disk.yandex.ru/d/ICcef4vBDqadfQ)**  
+- **[Yandex Disk](https://disk.yandex.ru/d/oy8NJVpAEvmmPQ)**  
   (прямая ссылка на **.ZIP** архив)
 
 > [!IMPORTANT]
