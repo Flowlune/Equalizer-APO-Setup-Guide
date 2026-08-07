@@ -395,6 +395,10 @@ Config
 ---
 
 > [!CAUTION]
+> <img width="1123" height="664" alt="Адресная строка в проводнике" src="https://github.com/user-attachments/assets/ad3d2d67-e798-4c85-a40f-b637d3f2b0ed" />
+>
+> Перед созданием резервной копии нужно зайти в адресную строку проводника в корневой папке Equalizer APO, написать там «CMD» либо «PowerShell» и нажать Enter.
+>
 > Перед заменой конфигураций рекомендуется сделать резервную копию папки:
 >
 > ```
@@ -404,7 +408,7 @@ Config
 > Если Windows не позволяет создать копию из-за недостатка прав, откройте **Терминал Windows** от имени администратора и выполните команду:
 >
 > ```
-> cd /d "C:\Program Files\EqualizerAPO" && copy config config.bk && exit
+> cd /d "C:\Program Files\EqualizerAPO" && xcopy config config.bk /E /I && exit
 > ```
 >
 > Будет создана резервная копия папки `config` с именем `config.bk`.
@@ -412,10 +416,11 @@ Config
 > Также можно будет создать копию папки `config` через PowerShell: его нужно запустить от имени администратора и выполнить следующую команду:
 > 
 > ```
-> cd "C:\Program Files\EqualizerAPO"; copy config config.bk; exit
+> cd "C:\Program Files\EqualizerAPO"; Copy-Item -Path config -Destination config.bk -Recurse; exit
 > ```
 >
 > Будет создана резервная копия папки `config` с именем `config.bk`.
+
 
 ---
 
