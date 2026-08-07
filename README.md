@@ -326,11 +326,12 @@ Config
 # 🎛 VST-плагины
 <img width="1116" height="403" alt="19  Чтобы добавлять VST плагины нужно зайти в папку VSTPlugins" src="https://github.com/user-attachments/assets/6622e2f9-fd5b-48de-b577-30b454fb3800" />
 
-Все VST-плагины (.dll) необходимо помещать в папку
-
-```
-C:\Program Files\EqualizerAPO\VSTPlugins
-```
+> [!NOTE]
+>Все VST-плагины (.dll) необходимо помещать в папку
+>
+>```
+>C:\Program Files\EqualizerAPO\VSTPlugins
+>```
 
 ---
 
