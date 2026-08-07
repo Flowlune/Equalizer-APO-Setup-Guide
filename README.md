@@ -414,6 +414,8 @@ Config
 > ```
 > cd "C:\Program Files\EqualizerAPO"; copy config config.bk; exit
 > ```
+>
+> Будет создана резервная копия папки `config` с именем `config.bk`.
 
 ---
 
